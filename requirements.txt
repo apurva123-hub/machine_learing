@@ -5,4 +5,4 @@ seaborn
 scikit-learn
 statsmodels
 statsforecast
-ipykern
+ipykernel
